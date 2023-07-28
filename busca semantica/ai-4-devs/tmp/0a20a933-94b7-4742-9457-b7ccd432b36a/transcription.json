@@ -1,0 +1,33 @@
+{
+  "task":"transcribe",
+  "language":"portuguese",
+  "duration":711.91,
+  "text":"Agora que a gente aprendeu a criar uma regex para encontrar esses parâmetros dinâmicos aqui",
+  "segments":[
+     {
+        "id":0,
+        "seek":0,
+        "start":1,
+        "end":7.5600000000000005,
+        "text":"Agora que a gente aprendeu a criar uma regex para encontrar esses parâmetros dinâmicos aqui",
+        "tokens":[
+           50414,
+           16023,
+           631,
+           257,
+           3788,
+           21003,
+           23685,
+           257,
+           36882,
+           2772,
+           319,
+           432,
+           87,
+           1690,
+           17525,
+           10966
+        ]
+     }
+  ]
+}
